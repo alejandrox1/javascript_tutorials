@@ -1,7 +1,7 @@
 class Square extends React.Component {
     render() {
         return (
-            <button className="quare">
+            <button className="button">
             {/* TODO */}
             </button>
         );
